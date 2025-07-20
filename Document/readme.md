@@ -71,7 +71,7 @@ GETTING STARTED
 
 CLONE THE REPOSITORY
 
-git clone https://github.com/yourusername/shopsmart.git
+git clone https://github.com/Samreen-Shaik/SHOP-SMART.git
 cd grocery-aisle-digital-hub-main
 
 
